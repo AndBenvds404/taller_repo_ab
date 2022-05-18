@@ -4,7 +4,8 @@ public class Main {
 	
 	public static void main(String[] args) {
 		
-		System.out.println(" my primer protecto JAVA en GitHub");
+		System.out.println(" HOLA MUNDO ");
+		
 	}
 
 }
